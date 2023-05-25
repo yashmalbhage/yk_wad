@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae712b48.css",
+    "main.js": "/static/js/main.15ac7680.js",
+    "static/media/gyros3.jpg": "/static/media/gyros3.d4cb6be5b32d44ad2af6.jpg",
+    "static/media/pizza4.jpg": "/static/media/pizza4.f769a2c384f997f7de2a.jpg",
+    "static/media/pizza3.jpg": "/static/media/pizza3.12966f5f88126ffd18ba.jpg",
+    "static/media/pasta3.jpg": "/static/media/pasta3.384ec0ac870464974d8b.jpg",
+    "static/media/pasta4.jpg": "/static/media/pasta4.4dbdcbca76aeec9bf938.jpg",
+    "static/media/pizza1.jpg": "/static/media/pizza1.92f50fb84035557326ac.jpg",
+    "static/media/burger3.jpg": "/static/media/burger3.43201d78b8fd196ffd6c.jpg",
+    "static/media/pasta2.jpg": "/static/media/pasta2.9e5289b2d24c2ec4a55e.jpg",
+    "static/media/burger2.jpg": "/static/media/burger2.d0980be061d7ed31e5ed.jpg",
+    "static/media/gyros5.jpg": "/static/media/gyros5.d54840dd6d4b0b30f445.jpg",
+    "static/media/gyros1.jpg": "/static/media/gyros1.f21754a2366f6ad4462f.jpg",
+    "static/media/pizza5.jpg": "/static/media/pizza5.cf681975677debef97bb.jpg",
+    "static/media/pizza2.jpg": "/static/media/pizza2.00b6114c8f33252cc757.jpg",
+    "static/media/burger1.jpg": "/static/media/burger1.f9d79d8c1e6021c44892.jpg",
+    "static/media/gyros2.jpg": "/static/media/gyros2.2396b0f75b61109f799a.jpg",
+    "static/media/gyros4.jpg": "/static/media/gyros4.a960e7010a29b93e7485.jpg",
+    "static/media/burger5.jpg": "/static/media/burger5.080899617f2d8cea0aa2.jpg",
+    "static/media/pasta1.jpg": "/static/media/pasta1.4958c262395ee962cc90.jpg",
+    "static/media/pasta5.jpg": "/static/media/pasta5.c82c1df46cc68b58c12f.jpg",
+    "static/media/burger4.jpg": "/static/media/burger4.c5210b3aa31d01432839.jpg",
+    "static/media/bg.png": "/static/media/bg.d7970619b69fcbcefc1d.png",
+    "static/media/cooking-food.jpg": "/static/media/cooking-food.7f4562419d4c4b310cc6.jpg",
+    "static/media/g.png": "/static/media/g.2bcc819aedc7baa56673.png",
+    "static/media/biryani.jpg": "/static/media/biryani.008824516774b74887de.jpg",
+    "static/media/illustration1.svg": "/static/media/illustration1.6493e4927b2a283a08091219623c6456.svg",
+    "static/media/get-newsletter-updates.svg": "/static/media/get-newsletter-updates.f1e0570e1feb84eef17e9da09b2046b7.svg",
+    "static/media/illustration3.svg": "/static/media/illustration3.3dda137ec14007c328454bd93eb9bbf1.svg",
+    "static/media/illustration2.svg": "/static/media/illustration2.6199ce14a7a70a51a0de7c21fb24f92c.svg",
+    "static/media/f.png": "/static/media/f.f0d20f45b47a7fb3c645.png",
+    "index.html": "/index.html",
+    "main.ae712b48.css.map": "/static/css/main.ae712b48.css.map",
+    "main.15ac7680.js.map": "/static/js/main.15ac7680.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae712b48.css",
+    "static/js/main.15ac7680.js"
+  ]
+}
